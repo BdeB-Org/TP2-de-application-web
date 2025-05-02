@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="GuitarShop" id="6A793264-7324-6CF0-D05A-B90D694272A0" version="3.5">
+<createdBy>a8077</createdBy>
+<createdTime>2025-05-02 01:12:38 UTC</createdTime>
+<ownerDesignName>GuitarShop</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>6A793264-7324-6CF0-D05A-B90D694272A0</designId>
+</OSDM_Design>
