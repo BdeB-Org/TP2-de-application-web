@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="BoutiqueGuitar" id="FA5672F8-F076-9AF2-BC5F-341AAB6DAD74" version="3.5">
+<createdBy>a8077</createdBy>
+<createdTime>2025-05-05 23:42:29 UTC</createdTime>
+<ownerDesignName>BoutiqueGuitar</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>FA5672F8-F076-9AF2-BC5F-341AAB6DAD74</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="09F5107B-38D3-AFA4-F27A-DC81BE2D5842">
+<designStoragePath>C:\ddl</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
