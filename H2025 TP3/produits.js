@@ -1,7 +1,7 @@
 
 async function chargerProduits() {
     try {
-        const response = await fetch('');
+        const response = await fetch('http://localhost:8080/ords/guitarshop/produits');
         const data = await response.json();
         const tbody = document.querySelector('#table-produits tbody');
         tbody.innerHTML = '';

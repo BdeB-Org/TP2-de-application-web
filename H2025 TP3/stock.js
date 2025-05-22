@@ -1,7 +1,7 @@
 
 async function chargerDonnees() {
     try {
-        const response = await fetch('https://votre-serveur-ords/rest/inventaire_details/');
+        const response = await fetch('http://localhost:8080/ords/guitarshop/stock');
         const data = await response.json();
         const tbody = document.querySelector('#table-stock tbody');
         tbody.innerHTML = '';
