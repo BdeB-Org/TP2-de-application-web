@@ -1,7 +1,7 @@
 
 async function chargerProduits() {
     try {
-        const response = await fetch('https://votre-serveur-ords/rest/produits/');
+        const response = await fetch('');
         const data = await response.json();
         const tbody = document.querySelector('#table-produits tbody');
         tbody.innerHTML = '';
